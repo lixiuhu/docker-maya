@@ -1,4 +1,4 @@
-FROM tigerseye/magento:base
+FROM tigerseye/docker-maya:base
  
 # Download and unpack distribution first, Docker's caching
 # mechanism will ensure that this only happens once.
