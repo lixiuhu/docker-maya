@@ -8,7 +8,7 @@ RUN yum update -y && yum install -y \
     libXpm libXpm-devel \
     libXi libXi-devel \
     *libtiff* \
-    libtiff \
+    libpng12* \
     libXinerama \
     libpng libpng-devel \
     libGLU libGLU-devel \
