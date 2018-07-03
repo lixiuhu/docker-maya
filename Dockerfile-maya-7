@@ -1,4 +1,4 @@
-FROM tigerseye/docker-maya:base
+FROM tigerseye/docker-maya:base-7
  
 # Download and unpack distribution first, Docker's caching
 # mechanism will ensure that this only happens once.
